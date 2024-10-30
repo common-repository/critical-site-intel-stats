@@ -1,0 +1,178 @@
+h3 {
+	margin-bottom: 5px;
+}
+
+.vtbacklink {
+	padding: 5px 5px 15px 5px;
+	font-weight: bold;
+}
+
+.mleft {
+	padding-left: 10px;
+}
+
+.exttb table {
+	width: 900px;
+}
+
+.exttb td, .exttb th {
+	border-right: 1px solid #CCCCCC;
+}
+
+.exttb td {
+	border-top: 1px solid #CCCCCC;
+	background-color: #6A6A6A;
+	color: #FFFFFF;
+}
+
+.csubwrap {
+	padding-left: 49px;
+	margin: 0;
+	clear: both;
+}
+
+.csubgrp {
+	padding: 5px;
+	margin: 0px;
+	width: 150px;
+	float: left;
+	display: block;
+	font-size: 10px;
+	background-color: #FFFFFF;
+	color: #000000;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.vtdash {
+	display: block;
+	margin: 0px;
+	padding-top: 10px;
+	height: 280px;
+	width: 380px;
+}
+
+.vtcjm {
+	float: left;
+	width: 165px;
+	height: 330px;
+	border: 1px solid #CCCCCC;
+	background-color: #F1F1F1;
+	padding: 5px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	font-size: 11px;
+}
+
+.vtcjm div {
+	padding: 5px 12px 0px 0px;
+}
+
+.vtcjm  input {
+	margin-right: 4px;
+}
+
+.vtcjm h4 {
+	margin: 2px 0px 8px 0px;
+	font-size: 13px;
+	color: red;
+}
+
+.tvid {
+	float: left;
+	width: 640px;
+	height: 390px;
+	border: 1px solid #333333;
+	margin-left: 10px;
+}
+
+.tifrm {
+	font-size: 11px;
+	float: left;
+	width: 285px;
+	margin-left: 10px;
+	padding: 5px;
+}
+
+.tifrm h3 {
+	color: #006699;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 16px;
+}
+
+.stbc {
+	width: 380px;
+	float: left;
+	padding-right: 10px;
+	margin-bottom: 15px;
+}
+
+.stbs {
+	width: 260px;
+	float: left;
+	padding-right: 10px;
+	margin-bottom: 15px;
+}
+
+.stbs  td, .stbs th, .stbc  td, .stbc th {
+	border-right: 1px solid #CCCCCC;
+}
+
+.stbs  td, .stbc  td {
+	border-top: 1px solid #CCCCCC;
+}
+
+.clr {
+	clear: both;
+}
+
+.etitle {
+	float: left;
+}
+
+.pag {
+	float: left;
+	font-size: 11px;
+	padding: 17px 0px 0px 20px;
+}
+
+.entries {
+	margin-left: 0px;
+	padding-right: 20px;
+}
+
+.entries table {
+	width: 1050px;
+	margin-bottom: 20px;
+}
+
+.entries th {
+	border-right: 1px solid #CCCCCC;
+	text-align: center;
+}
+
+.entries td {
+	border-right: 1px solid #CCCCCC;
+	border-top: 1px solid #CCCCCC;
+	text-align: center;
+	font-size: 10px;
+}
+
+.titlest {
+	text-align: right;
+	font-weight: bold;
+	font-size: 11px;
+}
+
+.valst {
+	font-style: italic;
+	text-align: center;
+	border-right: 1px solid #CCCCCC;
+}
+
+.morest {
+	font-weight: bold;
+	font-size: 17px;
+}
